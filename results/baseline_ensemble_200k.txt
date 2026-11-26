@@ -1,0 +1,11 @@
+LightGBM TF-IDF(30k) acc=0.7715 f1m=0.7067
+Report:
+              precision    recall  f1-score   support
+
+    negativo      0.781     0.861     0.819     16000
+     neutral      0.577     0.370     0.451      8000
+    positivo      0.820     0.883     0.850     16000
+
+    accuracy                          0.771     40000
+   macro avg      0.726     0.705     0.707     40000
+weighted avg      0.756     0.771     0.758     40000

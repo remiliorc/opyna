@@ -1,0 +1,16 @@
+{
+  "n": 200000,
+  "nulos": 0,
+  "verificada_pct": 84.9,
+  "long_mediana": 44.0,
+  "long_media": 76.7,
+  "helpful_media": 1.68,
+  "helpful_pct_ge1": 29.8,
+  "long_por_estrella": {
+    "1": 67.5,
+    "2": 83.6,
+    "3": 84.0,
+    "4": 88.4,
+    "5": 60.2
+  }
+}

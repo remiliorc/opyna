@@ -1,0 +1,17 @@
+[project]
+name = "opyna"
+version = "0.1.0"
+description = "Plataforma de inteligencia de cliente sobre reseñas de Amazon (TFM UCM)."
+authors = [{ name = "Rogelio Rivero Contreras" }]
+requires-python = ">=3.10"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

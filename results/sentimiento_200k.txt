@@ -1,0 +1,11 @@
+acc=0.8183 f1m=0.7675 (5.5min)
+
+              precision    recall  f1-score   support
+
+    negativo      0.821     0.900     0.859     16000
+     neutral      0.613     0.491     0.545      8000
+    positivo      0.898     0.900     0.899     16000
+
+    accuracy                          0.818     40000
+   macro avg      0.777     0.764     0.768     40000
+weighted avg      0.810     0.818     0.812     40000

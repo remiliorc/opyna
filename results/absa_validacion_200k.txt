@@ -1,0 +1,18 @@
+Validacion ABSA (DeBERTa vs Claude LLM-annotator, n=160)
+Accuracy=0.7562 F1m=0.5894
+
+              precision    recall  f1-score   support
+
+    Negative      0.811     0.948     0.874        77
+     Neutral      0.400     0.067     0.114        30
+    Positive      0.708     0.868     0.780        53
+
+    accuracy                          0.756       160
+   macro avg      0.640     0.628     0.589       160
+weighted avg      0.700     0.756     0.700       160
+
+
+Matriz (Claude filas/DeBERTa cols; Neg/Neu/Pos):
+[[73  0  4]
+ [13  2 15]
+ [ 4  3 46]]

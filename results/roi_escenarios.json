@@ -1,0 +1,38 @@
+{
+  "conservador": {
+    "pedidos": 200000,
+    "devoluciones": 20000,
+    "coste_devoluciones": 800000,
+    "ahorro_devoluciones": 40000,
+    "ahorro_analisis": 0,
+    "valor_retencion": 0,
+    "valor_total": 40000,
+    "beneficio_neto": 39000,
+    "roi_x": 39.0,
+    "payback_dias": 9.1
+  },
+  "base": {
+    "pedidos": 200000,
+    "devoluciones": 20000,
+    "coste_devoluciones": 800000,
+    "ahorro_devoluciones": 80000,
+    "ahorro_analisis": 24000,
+    "valor_retencion": 0,
+    "valor_total": 104000,
+    "beneficio_neto": 103000,
+    "roi_x": 103.0,
+    "payback_dias": 3.5
+  },
+  "optimista": {
+    "pedidos": 200000,
+    "devoluciones": 20000,
+    "coste_devoluciones": 800000,
+    "ahorro_devoluciones": 120000,
+    "ahorro_analisis": 24000,
+    "valor_retencion": 50000,
+    "valor_total": 194000,
+    "beneficio_neto": 193000,
+    "roi_x": 193.0,
+    "payback_dias": 1.9
+  }
+}

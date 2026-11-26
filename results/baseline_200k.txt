@@ -1,0 +1,18 @@
+Baseline TF-IDF+LogReg 200k
+accuracy=0.7673 f1_macro=0.7335
+
+              precision    recall  f1-score   support
+
+    negativo      0.831     0.789     0.809     16000
+     neutral      0.487     0.589     0.533      8000
+    positivo      0.882     0.836     0.858     16000
+
+    accuracy                          0.767     40000
+   macro avg      0.733     0.738     0.734     40000
+weighted avg      0.783     0.767     0.774     40000
+
+
+Matriz (neg/neu/pos):
+[[12617  2881   502]
+ [ 2005  4708  1287]
+ [  562  2070 13368]]

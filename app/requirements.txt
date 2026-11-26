@@ -1,0 +1,8 @@
+# Versiones fijadas para reproducibilidad (TFM Opyna).
+# Hardware: CPU basica. Sin ZeroGPU: la demo no depende de cuota de GPU.
+# Sin fijar, transformers 5 elimino pipeline('translation') y rompio el ES.
+torch==2.11.0
+transformers==5.12.1
+sentencepiece
+gradio==6.20.0
+sacremoses

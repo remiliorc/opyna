@@ -1,0 +1,41 @@
+# --- núcleo de datos ---
+pandas>=2.2,<2.3
+numpy>=1.26,<2.2
+pyarrow>=15.0
+datasets>=2.19,<4        # <4 conserva soporte de loading script (Amazon-Reviews-2023)
+huggingface-hub>=0.23
+
+# --- ML / NLP ---
+scikit-learn>=1.5,<1.6
+transformers>=4.40,<5.0   # ojo: 5.0 renombra APIs (eval_strategy, processing_class)
+torch>=2.2
+sentencepiece>=0.2
+bertopic>=0.16            # detección de temas
+umap-learn>=0.5
+hdbscan>=0.8
+
+# --- API / servicio ---
+fastapi>=0.111
+uvicorn[standard]>=0.30
+pydantic>=2.7
+pydantic-settings>=2.3
+
+# --- interfaces ---
+gradio>=4.36
+python-telegram-bot>=21.0
+
+# --- capa generativa (elige uno) ---
+openai>=1.30              # o anthropic, o un modelo abierto local
+
+# --- utilidades ---
+python-dotenv>=1.0
+tqdm>=4.66
+rich>=13.7
+
+# --- dev ---
+pytest>=8.2
+ruff>=0.4
+
+# EDA
+matplotlib>=3.8
+seaborn>=0.13

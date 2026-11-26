@@ -1,0 +1,74 @@
+[
+  {
+    "aspecto": "atencion_cliente",
+    "tipo": "problema",
+    "neto": -48.1,
+    "menciones": 13258,
+    "prioridad": 637.7,
+    "tema": "dejo de funcionar a los pocos meses (durabilidad -> garantia/reembolso)",
+    "accion": "Reforzar postventa (tiempos de respuesta, garantia clara, reembolsos proactivos) y auditar proveedores con mas fallos tempranos."
+  },
+  {
+    "aspecto": "bateria",
+    "tipo": "problema",
+    "neto": -15.0,
+    "menciones": 27427,
+    "prioridad": 411.4,
+    "tema": "problemas de carga: cables y cargadores incluidos",
+    "accion": "Mejorar cables/cargadores incluidos y autonomia; comunicar expectativas realistas."
+  },
+  {
+    "aspecto": "pantalla",
+    "tipo": "problema",
+    "neto": -21.8,
+    "menciones": 15865,
+    "prioridad": 345.9,
+    "tema": "",
+    "accion": "Control de calidad de paneles (brillo, pixeles, tactil) y gestion de expectativas de resolucion."
+  },
+  {
+    "aspecto": "rendimiento",
+    "tipo": "problema",
+    "neto": -7.4,
+    "menciones": 14638,
+    "prioridad": 108.3,
+    "tema": "lentitud, lag y cuelgues",
+    "accion": "Optimizacion de firmware y pruebas de estres previas al lanzamiento."
+  },
+  {
+    "aspecto": "envio_embalaje",
+    "tipo": "problema",
+    "neto": -4.1,
+    "menciones": 4640,
+    "prioridad": 19.0,
+    "tema": "",
+    "accion": "Embalaje mas protector y seguimiento de entrega en categorias con incidencias."
+  },
+  {
+    "aspecto": "facilidad_uso",
+    "tipo": "fortaleza",
+    "neto": 19.0,
+    "menciones": 17422,
+    "prioridad": 0.0,
+    "tema": "",
+    "accion": "Explotar como argumento de venta ('facil de instalar y usar') en fichas y campanas."
+  },
+  {
+    "aspecto": "precio",
+    "tipo": "fortaleza",
+    "neto": 6.7,
+    "menciones": 38245,
+    "prioridad": 0.0,
+    "tema": "",
+    "accion": "Reforzar el posicionamiento calidad-precio: es el aspecto mas mencionado y con net positivo."
+  },
+  {
+    "aspecto": "calidad",
+    "tipo": "fortaleza",
+    "neto": 3.6,
+    "menciones": 35103,
+    "prioridad": 0.0,
+    "tema": "",
+    "accion": "Vigilar durabilidad (ligada a los fallos tempranos que alimentan el soporte)."
+  }
+]
